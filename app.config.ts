@@ -32,7 +32,7 @@ export default defineAppConfig({
     },
     socials: {
       twitter: 't33m_n0_5l33p',
-      instagram: 'atinuxt',
+      instagram: 'spuntentertainment',
       linkedin: {
         icon: 'uil:linkedin',
         label: 'LinkedIn',
