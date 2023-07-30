@@ -4,7 +4,7 @@ export default defineAppConfig({
     description: 'we are not sorry, at all..',
     image: {
       src: '/facebook_cover_photo_1.png',
-      alt: 'An image showcasing my project.',
+      alt: 'spuntentertainment-we are not sorry, at all..',
       width: 400,
       height: 300
     },
