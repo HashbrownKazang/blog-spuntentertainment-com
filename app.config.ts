@@ -22,7 +22,7 @@ export default defineAppConfig({
         enabled: true,
 
         // our github repository
-        repository: 'https://www.github.com/nuxt-themes/alpine',
+        repository: 'https://www.github.com/HashbrownKazang/alpine-nuxt-studio',
 
         text: 'spuntentertainment'
       },
