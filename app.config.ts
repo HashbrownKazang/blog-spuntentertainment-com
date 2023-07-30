@@ -1,6 +1,6 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
+    title: 'blog.spuntentertainment',
     description: 'The minimalist blog theme',
     image: {
       src: '/social-card-preview.png',
