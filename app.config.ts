@@ -13,7 +13,7 @@ export default defineAppConfig({
       logo: {
         path: '/spunt-light.svg', // path of the logo
         pathDark: '/spunt-dark.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
-        alt: 'alpine' // alt of the logo
+        alt: 'spuntentertainment' // alt of the logo
       }
     },
     footer: {
