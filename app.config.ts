@@ -33,11 +33,14 @@ export default defineAppConfig({
     socials: {
       twitter: 't33m_n0_5l33p',
       instagram: 'spuntentertainment',
+
       linkedin: {
         icon: 'uil:linkedin',
         label: 'LinkedIn',
         href: 'https://www.linkedin.com/company/nuxtlabs'
-      }
+      },
+
+      github: 'https://github.com/HashbrownKazang'
     },
     form: {
       successMessage: 'Message sent. Thanks'
