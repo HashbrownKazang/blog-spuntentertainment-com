@@ -3,7 +3,7 @@ export default defineAppConfig({
     title: 'blog.spuntentertainment',
     description: 'we are not sorry, at all..',
     image: {
-      src: '/social-card-preview.png',
+      src: '/facebook_cover_photo_1.png',
       alt: 'An image showcasing my project.',
       width: 400,
       height: 300
