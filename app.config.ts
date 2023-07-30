@@ -40,7 +40,8 @@ export default defineAppConfig({
         href: 'https://www.linkedin.com/company/nuxtlabs'
       },
 
-      github: 'https://github.com/HashbrownKazang'
+      github: 'https://github.com/HashbrownKazang',
+      facebook: 'spuntentertainment'
     },
     form: {
       successMessage: 'Message sent. Thanks'
