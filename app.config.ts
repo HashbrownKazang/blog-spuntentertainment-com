@@ -41,7 +41,8 @@ export default defineAppConfig({
       },
 
       github: 'https://github.com/HashbrownKazang',
-      facebook: 'spuntentertainment'
+      facebook: 'spuntentertainment',
+      youtube: '@spuntentertainment'
     },
     form: {
       successMessage: 'Message sent. Thanks'
